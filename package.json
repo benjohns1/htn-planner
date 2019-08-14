@@ -1,0 +1,23 @@
+{
+  "name": "htn-planner",
+  "version": "0.0.1",
+  "description": "Hierarchical task network planner",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjohns1/htn-planner.git"
+  },
+  "author": "Ben Johns <benjohns1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjohns1/htn-planner/issues"
+  },
+  "homepage": "https://github.com/benjohns1/htn-planner#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
